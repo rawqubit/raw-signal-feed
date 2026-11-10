@@ -462,5 +462,15 @@ AI Generated</description>
     <pubDate>Mon, 09 Nov 2026 13:26:59 +0000</pubDate>
     <itunes:duration>705</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 10, 2026</title>
+    <description>Anthropic's new Claude models built an operating system with over a thousand agents, then the company retracted its own IPO paperwork; cheap AI models all land on the exact same price; Nvidia open-sources a robot brain; and crypto waits on this morning's inflation numbers as Coinbase wins a federal trust charter. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/499128806620654/9bbc6577-7e48-40f2-baf6-6ad0bc58bd7f/ep-2318ea88-03a4-4126-81cd-cf8e0d83380c.mp3" length="5807269" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-2318ea88-03a4-4126-81cd-cf8e0d83380c</guid>
+    <pubDate>Tue, 10 Nov 2026 13:28:22 +0000</pubDate>
+    <itunes:duration>725</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
