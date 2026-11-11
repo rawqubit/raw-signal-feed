@@ -472,5 +472,15 @@ AI Generated</description>
     <pubDate>Tue, 10 Nov 2026 13:28:22 +0000</pubDate>
     <itunes:duration>725</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 11, 2026</title>
+    <description>DeepMind uses AI to formally verify Signal's encryption, Anthropic's IPO roadshow launches at up to a .4T valuation while OpenAI posts a 0B quarter, Google's robots clock in at a Mercedes factory, Meituan open-sources a 1.6T-parameter model, and Bitcoin hits a three-month low after a hot inflation print. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/499128806620654/9bbc6577-7e48-40f2-baf6-6ad0bc58bd7f/ep-1b2c304a-dfaa-416b-8f5f-5e90f90edb62.mp3" length="5777509" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1b2c304a-dfaa-416b-8f5f-5e90f90edb62</guid>
+    <pubDate>Wed, 11 Nov 2026 13:27:15 +0000</pubDate>
+    <itunes:duration>722</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
