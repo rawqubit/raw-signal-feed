@@ -512,5 +512,15 @@ AI Generated</description>
     <pubDate>Sat, 14 Nov 2026 13:28:55 +0000</pubDate>
     <itunes:duration>819</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 15, 2026</title>
+    <description>Bitcoin crashes to sixty-two thousand dollars on a thin weekend, Meituan releases a frontier agent model trained without a single Nvidia chip, Anthropic's IPO book is six times oversubscribed, and OpenAI bets the general model is the robot now. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/499128806620654/9bbc6577-7e48-40f2-baf6-6ad0bc58bd7f/ep-68a1d06b-ed1c-4d0b-af14-2c81e2056788.mp3" length="6989605" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-68a1d06b-ed1c-4d0b-af14-2c81e2056788</guid>
+    <pubDate>Sun, 15 Nov 2026 13:31:43 +0000</pubDate>
+    <itunes:duration>873</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
