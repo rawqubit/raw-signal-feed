@@ -582,5 +582,15 @@ AI Generated</description>
     <pubDate>Sat, 21 Nov 2026 13:28:39 +0000</pubDate>
     <itunes:duration>760</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 22, 2026</title>
+    <description>The Riemann proof gets machine-certified, your AI prompts may have been read by strangers, SpaceX borrows forty-four billion dollars for Nvidia chips, and bitcoin washes out to fifty-five thousand before snapping back. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://rawqubit.github.io/raw-signal-feed/audio/ep-10c069ca-484c-4589-8c52-f39e259cdba4.mp3" length="6079141" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-10c069ca-484c-4589-8c52-f39e259cdba4</guid>
+    <pubDate>Sun, 22 Nov 2026 13:27:19 +0000</pubDate>
+    <itunes:duration>759</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
