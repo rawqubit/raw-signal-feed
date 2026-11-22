@@ -93,6 +93,23 @@ def main():
     if rss_img_link is not None:
         rss_img_link.text = base
 
+    # Enclosures: point at the publicly hosted copies in audio/ when present.
+    # The Muse media URLs 403 for outside apps (verified 2026-11-21), so
+    # directories cannot play episodes until the MP3 lives in this repo.
+    # Only rewrite when the file is actually in the checkout; otherwise keep
+    # the original URL and warn (e.g. a new episode whose MP3 was not
+    # uploaded yet). Upload the new MP3 BEFORE triggering the sync workflow.
+    import os
+    for item in channel.findall("item"):
+        enc = item.find("enclosure")
+        if enc is None:
+            continue
+        fname = enc.get("url", "").rsplit("/", 1)[-1]
+        if fname.endswith(".mp3") and os.path.exists(os.path.join("audio", fname)):
+            enc.set("url", base + "audio/" + fname)
+        else:
+            print(f"warning: no public copy for {fname}, keeping original enclosure")
+
     # atom self link points at the mirror
     for link in channel.findall("{%s}link" % ATOM):
         if link.get("rel") == "self":
