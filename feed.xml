@@ -592,5 +592,15 @@ AI Generated</description>
     <pubDate>Sun, 22 Nov 2026 13:27:19 +0000</pubDate>
     <itunes:duration>759</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 23, 2026</title>
+    <description>OpenAI proposes a shared speed limit for AI development, the US probes Megaspeed over Nvidia chips sent to China, AI agents find a real zero-day and leak credentials, and bitcoin closes its seventh straight red week. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://rawqubit.github.io/raw-signal-feed/audio/ep-3d95b41d-7552-48f0-a2cd-7052076a50e0.mp3" length="5863141" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-3d95b41d-7552-48f0-a2cd-7052076a50e0</guid>
+    <pubDate>Mon, 23 Nov 2026 13:28:32 +0000</pubDate>
+    <itunes:duration>732</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
