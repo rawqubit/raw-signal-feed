@@ -602,5 +602,15 @@ AI Generated</description>
     <pubDate>Mon, 23 Nov 2026 13:28:32 +0000</pubDate>
     <itunes:duration>732</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 24, 2026</title>
+    <description>Nvidia reinstates Jensen Huang and adds nine hundred fifty billion dollars in a day, CrowdStrike buys Zscaler for forty four billion, AI agents take over code review and live patching, and bitcoin slips back under sixty thousand. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://rawqubit.github.io/raw-signal-feed/audio/ep-1e03b919-7630-48b2-b44f-5631ef11ce5a.mp3" length="5697637" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1e03b919-7630-48b2-b44f-5631ef11ce5a</guid>
+    <pubDate>Tue, 24 Nov 2026 13:32:47 +0000</pubDate>
+    <itunes:duration>712</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
