@@ -632,5 +632,15 @@ AI Generated</description>
     <pubDate>Thu, 26 Nov 2026 13:31:03 +0000</pubDate>
     <itunes:duration>766</itunes:duration>
   </item>
+  <item>
+    <title>Raw Signal — November 27, 2026</title>
+    <description>Nvidia freezes AI server shipments across Southeast Asia under new US export controls, OpenAI fires back with nine math papers while its own staffers say the next models are too powerful to ship, and bitcoin tries to end a seven-week losing streak. The signal, not the noise — every morning. Follow RawQubit on X for the thinking between episodes: x.com/RawQubit
+
+AI Generated</description>
+    <enclosure url="https://rawqubit.github.io/raw-signal-feed/audio/ep-f7cd403f-22b0-401f-949c-459f41dec305.mp3" length="6016446" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-f7cd403f-22b0-401f-949c-459f41dec305</guid>
+    <pubDate>Fri, 27 Nov 2026 13:30:02 +0000</pubDate>
+    <itunes:duration>749</itunes:duration>
+  </item>
 <itunes:author>Srinikhil Chakilam</itunes:author><itunes:owner><itunes:name>Srinikhil Chakilam</itunes:name><itunes:email>Nikhil@rawqubit.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
 </rss>
